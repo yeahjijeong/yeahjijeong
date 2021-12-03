@@ -1,4 +1,4 @@
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=#ffc107&height=150&section=header&text=YEAH%20JI&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=YEAH%20JI&fontSize=90" />
 
-<h1 style="text-align: center;">Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
